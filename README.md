@@ -94,6 +94,35 @@ Developing commercial software projects gave me solid knowledge, expertise, and 
 
 <br/>
 
+### GitHub Stats 📈
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/murat-ti">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murat-ti&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Murat's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/murat-ti">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/murat-ti?cardType=github&theme=github" alt="Murat's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=murat-ti&show_icons=true&hide=stars&hide_border=true" alt="Murat's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
+---
+
+<br/>  
+  
 ## Connect with me
 
 <div align="center">
