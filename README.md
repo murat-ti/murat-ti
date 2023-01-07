@@ -1,4 +1,4 @@
-<div align="center">Hi I'm Murat Kurbanov</div>
+<div align="center">![Murat Kurbanov](https://avatars.githubusercontent.com/u/33370868?v=4)<br>Hi I'm Murat Kurbanov</div>
 
 <div color="green" align="center"> Flutter/Dart developer since 2020 </div>
 
