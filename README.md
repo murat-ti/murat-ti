@@ -1,5 +1,7 @@
----
 ### About Me
+
+I'm Murat Kurbanov, 
+Flutter/Dart developer since 2020
 
 Skilled software developer with 5+ years experience and several finished commercial projects.
 Developing commercial software projects gave me solid knowledge, expertise, and a deep understanding of:
