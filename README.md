@@ -1,5 +1,3 @@
-<img src="./banner.jpg" alt="Teklipyaz" />
-
 ### About Me
 
 I'm Murat Kurbanov, 
