@@ -1,9 +1,12 @@
 <div align="center">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /><br>
-  Hi I'm Murat Kurbanov
+  <table>
+    <tr>
+      <td><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /></td>
+      <td>I'm Murat Kurbanov </br> Flutter/Dart developer since 2020</td>
+    </tr>
+  </table>
 </div>
 
-<div color="green" align="center"> Flutter/Dart developer since 2020 </div>
 
 ---
 
