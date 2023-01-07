@@ -1,5 +1,5 @@
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /></td>
       <td>I'm Murat Kurbanov </br> Flutter/Dart developer since 2020</td>
