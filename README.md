@@ -1,39 +1,16 @@
-<div align="center">
-  <table bordercolor="#ffffff">
-    <tr>
-      <td width="50%">
-        <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /><br>
-        I'm Murat Kurbanov </br> 
-        Flutter/Dart developer since 2020 </br>
-      </td>
-      <td>
-        Skilled software developer with 5+ years experience and several finished commercial projects.
-        Developing commercial software projects gave me solid knowledge, expertise, and a deep understanding of:
-
-        - Working in international teams with over 30 employees (UX and UI Designers, Frontend and Backend Developers, Testers, DevOps, Project Managers, etc)
-        - How to develop successful products in an enterprise environment, using mobile and web applications and services
-        - Define project requirements, milestones, tasks
-        - Preparing technical documentation
-        - Preparing marketing ideas and materials for popularizing product
-        - Working with user comments in store and increase app rating
-        - Developing and bringing product to the market and successfully competing
-    </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
-
+### About Me
+I'm Murat Kurbanov, 
+Flutter/Dart developer since 2020
 Skilled software developer with 5+ years experience and several finished commercial projects.
 Developing commercial software projects gave me solid knowledge, expertise, and a deep understanding of:
 
 - Working in international teams with over 30 employees (UX and UI Designers, Frontend and Backend Developers, Testers, DevOps, Project Managers, etc)
-- How to develop successful products in an enterprise environment, using mobile and web applications and services
-- Define project requirements, milestones, tasks
-- Preparing technical documentation
+- Developing successful products in an enterprise environment, using mobile and web applications and services
+- Defining project requirements, milestones and tasks
+- Preparing technical documentation on English/Russian
 - Preparing marketing ideas and materials for popularizing product
-- Working with user comments in store and increase app rating
+- Working with user comments in store for increasing app rating
 - Developing and bringing product to the market and successfully competing
 
 ---
