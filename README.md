@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="300" /><br>
+  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /><br>
   Hi I'm Murat Kurbanov
 </div>
 
