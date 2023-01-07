@@ -1,8 +1,11 @@
 <div align="center">
   <table bordercolor="#ffffff">
     <tr>
-      <td width="500"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /><br>I'm Murat Kurbanov </br> 
-        Flutter/Dart developer since 2020 </br></td>
+      <td width="500px">
+        <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/33370868?v=4" alt="Murat Kurbanov" height="150" /><br>
+        I'm Murat Kurbanov </br> 
+        Flutter/Dart developer since 2020 </br>
+      </td>
       <td>
         Skilled software developer with 5+ years experience and several finished commercial projects.
         Developing commercial software projects gave me solid knowledge, expertise, and a deep understanding of:
