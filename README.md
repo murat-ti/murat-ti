@@ -10,13 +10,13 @@
 Skilled software developer with 5+ years experience and several finished commercial projects.
 Developing commercial software projects gave me solid knowledge, expertise, and a deep understanding of:
 
-- Working in international teams with over 30 employees (UX and UI Designers, Frontend and Backend Developers, Testers, DevOps, Project Managers, etc),
-- How to develop successful products in an enterprise environment, using mobile and web applications and services,
-- Define project requirements, milestones, tasks.
-- Preparing technical documentation,
+- Working in international teams with over 30 employees (UX and UI Designers, Frontend and Backend Developers, Testers, DevOps, Project Managers, etc)
+- How to develop successful products in an enterprise environment, using mobile and web applications and services
+- Define project requirements, milestones, tasks
+- Preparing technical documentation
 - Preparing marketing ideas and materials for popularizing product
-- Replying user comments in store
-- Bringing product to the market and successfully competing
+- Working with user comments in store and increase app rating
+- Developing and bringing product to the market and successfully competing
 
 ---
 
@@ -97,15 +97,22 @@ Developing commercial software projects gave me solid knowledge, expertise, and 
 ## Connect with me
 
 <div align="center">
+<a href="https://mail.google.com/mail/u/?authuser=murattinhokurban@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail" style="margin-bottom: 5px;" />
 <a href="https://www.linkedin.com/in/muratkurbanov/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://play.google.com/store/apps/developer?id=Murat+Kurbanov" target="_blank">
 <img src=https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white alt="Google Play" style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/murat_ti88" target="_blank">
+<a href="https://t.me/murat-ti88" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram" style="margin-bottom: 5px;" />
 </a>
+<a href="skype:murat_ti88?userinfo" target="_blank">
+<img src=https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white alt="Skype" style="margin-bottom: 5px;" />
+</a>
+  
+  
 </div>
 
 <br/>
